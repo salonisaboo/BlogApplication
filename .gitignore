@@ -1,0 +1,15 @@
+# Angular
+/frontend/node_modules/
+/frontend/dist/
+
+# Spring Boot
+/backend/target/
+/backend/.classpath
+/backend/.project
+/backend/.settings
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
